@@ -27,5 +27,3 @@ class Item {
     this.img = img;
   }
 }
-
-class Raccoon
